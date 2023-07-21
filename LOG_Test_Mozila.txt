@@ -1,0 +1,44 @@
+    Running 'ChatGPT_Compatibility_test_OS_Firefox'
+    15:59:38
+    1.open on / OK
+    15:59:39
+    2.setWindowSize on 1205x691 OK
+    15:59:39
+    3.runScript on window.scrollTo(0,0) OK
+    15:59:39
+    4.Trying to find css=.hover\3A bg-gray-200:nth-child(1)... OK
+    15:59:41
+    5.click on css=.m-1 > path OK
+    15:59:42
+    6.runScript on window.scrollTo(0,0) OK
+    15:59:42
+    7.runScript on window.scrollTo(0,0) OK
+    15:59:42
+    8.runScript on window.scrollTo(0,0) OK
+    15:59:42
+    9.click on linkText=New chat OK
+    15:59:42
+    10.click on css=.hover\3A bg-gray-200:nth-child(3) OK
+    15:59:43
+    11.click on css=.md\3A bottom-3 OK
+    15:59:43
+    12.runScript on window.scrollTo(0,0) OK
+    15:59:43
+    13.runScript on window.scrollTo(0,0) OK
+    15:59:43
+    14.runScript on window.scrollTo(0,0) OK
+    15:59:43
+    15.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    16.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    17.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    18.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    19.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    20.runScript on window.scrollTo(0,0) OK
+    15:59:44
+    'ChatGPT_Compatibility_test_OS_Firefox' completed successfully
+    15:59:44
